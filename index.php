@@ -42,7 +42,7 @@
                         <a href="index.php" class="nav-link smoothScroll">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a href="project.php" class="nav-link smoothScroll">Our Works</a>
+                        <a href="project-detail.php" class="nav-link smoothScroll">Our Works</a>
                     </li>
                     <li class="nav-item">
                         <a href="blog.php" class="nav-link">Blog</a>
