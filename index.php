@@ -44,9 +44,9 @@
                     <li class="nav-item">
                         <a href="project-detail.php" class="nav-link smoothScroll">Our Works</a>
                     </li>
-                    <li class="nav-item">
+<!--                     <li class="nav-item">
                         <a href="blog.php" class="nav-link">Blog</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                         <a href="contact.php" class="nav-link contact">Contact</a>
                     </li>
@@ -62,7 +62,7 @@
                     <div class="row">
 
                         <div class="col-lg-6 col-md-10 col-12 d-flex flex-column justify-content-center align-items-center">
-                              <div class="hero-text">
+                              <div class="hero-text">l
 
                                    <h1 class="text-white" data-aos="fade-up">CCVP seeks to  rebuild society’s aspirations  together</h1>
 
