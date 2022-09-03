@@ -32,7 +32,7 @@ https://templatemo.com/tm-538-digital-trend
      <!-- MENU BAR -->
     <nav class="navbar navbar-expand-lg position-relative">
         <div class="container">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
               <i class="fa fa-line-chart"></i>
               Digital Trend
             </a>
@@ -45,16 +45,16 @@ https://templatemo.com/tm-538-digital-trend
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="index.html#about" class="nav-link">Studio</a>
+                        <a href="index.php" class="nav-link">Studio</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.html#project" class="nav-link">Our Works</a>
+                        <a href="index.php" class="nav-link">Our Works</a>
                     </li>
                     <li class="nav-item">
-                        <a href="blog.html" class="nav-link">Blog</a>
+                        <a href="blog.php" class="nav-link">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a href="contact.html" class="nav-link contact">Contact</a>
+                        <a href="contact.php" class="nav-link contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -98,18 +98,19 @@ https://templatemo.com/tm-538-digital-trend
 
                   <div class="col-lg-9 mx-auto col-md-11 col-12 my-5 pt-3" data-aos="fade-up">
 
-                    <h2 class="mb-3">Etiam quis metus elementum, tempor risus vel, condimentum orci.</h2>
+                    <h2 class="mb-3">Objective of Community Centered Vision for Prosperity</h2>
 
-                    <p>Mauris in convallis nunc, non facilisis arcu. Nunc sapien nulla, interdum at diam non, aliquam vestibulum leo. Fusce laoreet malesuada ante, consectetur consequat ante tempor et. Quisque ac risus ligula.</p>
-
-                    <p>Suspendisse bibendum tortor at est placerat auctor. Phasellus tortor est, bibendum eu ex eu, tincidunt efficitur nunc. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-
+                    <p>Community Centered Vision for Prosperity will Conduct three (3) days trainings on Back-to-schoolcampaign for out of school children approach and launch digital media campaign among the pastoralist community in Golbo ward of Moyale Sub- County Marsabit County. </p> 
+                    <p>The campaign will target different stakeholders ranging from education department, parents, elders, religious leaders, youths and administrative. </p>
+                        <p>This organization will conduct contextual analysis by looking into the campaign enablers, inhibitors, tactics, messaging, action planning and rolling out campaigns. This campaign will be carried out during school holidays targeting 3 (three) primary schools, a total of 50 out of school going children.</p>
+                       <p>This campaign will results to  increase in number of children being enrolled in school ,thus enhancing their basic rights and needs.</p>
+                       
                     <ul class="list-detail py-3">
-                      <li><span>Quisque at condimentum est. Duis sollicitudin urna id elit pulvinar placerat. Ut ac dui in ex vulputate dictum.</span></li>
+                      <li><span>To renew community hope and strengthen their coping mechanism to overcome shocks and stresses caused by disasters.</span></li>
 
-                      <li><span>Mauris vitae tellus nisi. Morbi rutrum lacus sit amet volutpat viverra.</span></li>
+                      <li><span>To enhance community diversification on sustainable livelihood through integrated livelihood approaches</span></li>
 
-                      <li><span> Integer maximus sem ut ipsum blandit elementum. Nullam sollicitudin accumsan commodo.</span></li>
+                      <li><span>To be leaders /ambassador in child and women protection and safeguarding</span></li>
                     </ul>
 
                     <p>Sed leo nisl, posuere at molestie ac, suscipit auctor mauris. Etiam quis metus elementum, tempor risus vel, condimentum orci.</p>
@@ -157,7 +158,7 @@ https://templatemo.com/tm-538-digital-trend
         <div class="row">
 
           <div class="col-lg-5 mx-lg-auto col-md-8 col-10">
-            <h1 class="text-white" data-aos="fade-up" data-aos-delay="100">We make creative <strong>brands</strong> only.</h1>
+            <h1 class="text-white" data-aos="fade-up" data-aos-delay="100">We develop <strong>Community</strong> for Prosperity.</h1>
           </div>
 
           <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="200">
@@ -165,13 +166,13 @@ https://templatemo.com/tm-538-digital-trend
 
             <p class="mb-1">
               <i class="fa fa-phone mr-2 footer-icon"></i> 
-              +99 080 070 4224
+               +254 0729 734 442/ +254 728 430 681
             </p>
 
             <p>
               <a href="#">
                 <i class="fa fa-envelope mr-2 footer-icon"></i>
-                hello@company.com
+               communitycenteredvision@gmail.com
               </a>
             </p>
           </div>
@@ -188,7 +189,7 @@ https://templatemo.com/tm-538-digital-trend
           <div class="col-lg-4 mx-lg-auto text-center col-md-8 col-12" data-aos="fade-up" data-aos-delay="400">
             <p class="copyright-text">Copyright &copy; 2020 Your Company
             <br>
-            <a rel="nofollow noopener" href="https://templatemo.com">Design: TemplateMo</a></p>
+            <a rel="nofollow noopener" href="https://https://community-centered-vision.herokuapp.com">Community Centered Vision</a></p>
           </div>
 
           <div class="col-lg-4 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="500">
