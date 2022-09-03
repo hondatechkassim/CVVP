@@ -2,14 +2,8 @@
 <html lang="en">
 <head>
 
-     <title>Digital Trend - Blog Detail</title>
-<!--
+     <title>Community-Centered-Vision</title>
 
-DIGITAL TREND
-
-https://templatemo.com/tm-538-digital-trend
-
--->
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
      <meta name="description" content="">
