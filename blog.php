@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-     <title>Community cantered vision for prosperity (CCVP)</title>
+     <title>Community cantered vision for prosperity</title>
 <!--
 
 DIGITAL TREND
@@ -32,7 +32,7 @@ https://templatemo.com/tm-538-digital-trend
      <!-- MENU BAR -->
     <nav class="navbar navbar-expand-lg position-absolute">
         <div class="container">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
               <img src="images/cvvlogo.png">
               CCVP
             </a>
