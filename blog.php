@@ -45,16 +45,16 @@ https://templatemo.com/tm-538-digital-trend
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="index.html#about" class="nav-link">Studio</a>
+                        <a href="index.php" class="nav-link">Studio</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.html#project" class="nav-link">Our Works</a>
+                        <a href="index.php" class="nav-link">Our Works</a>
                     </li>
                     <li class="nav-item">
-                        <a href="blog.html" class="nav-link active">Blog</a>
+                        <a href="blog.php" class="nav-link active">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a href="contact.html" class="nav-link contact">Contact</a>
+                        <a href="contact.php" class="nav-link contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -69,7 +69,7 @@ https://templatemo.com/tm-538-digital-trend
 
                     <div class="col-lg-12 col-12 py-5 mt-5 mb-3 text-center">
 
-                      <h1 class="mb-4" data-aos="fade-up">Digital Trend Blog</h1>
+                      <h1 class="mb-4" data-aos="fade-up">Mentorship Program</h1>
                     </div>
 
                     <div class="col-lg-7 col-md-7 col-12 mb-4">
@@ -77,9 +77,9 @@ https://templatemo.com/tm-538-digital-trend
                         <img src="images/abdi.png" class="img-fluid" alt="blog header">
 
                         <div class="blog-header-info">
-                          <h4 class="blog-category text-info">Creative</h4>
+                          <h4 class="blog-category text-info">Mentorship Ongoing</h4>
 
-                          <h3><a href="blog-detail.html">The Key to Creative Work is Knowing When to Walk Away</a></h3>
+                          <h3><a href="blog-detail.php">Mr.Adan a member of CCVP giving lectures on the need of education</a></h3>
                         </div>
                       </div>
                     </div>
@@ -91,7 +91,7 @@ https://templatemo.com/tm-538-digital-trend
                         <div class="blog-info">
                           <h4 class="blog-category text-danger">Design</h4>
 
-                          <h3><a href="blog-detail.html">Why Truly Accessible Design Benefits Everyone</a></h3>
+                          <h3><a href="blog-detail.php">Mr.Adan a member of CCVP giving lectures on the need of education</a></h3>
                         </div>
                       </div>
 
@@ -101,7 +101,7 @@ https://templatemo.com/tm-538-digital-trend
                         <div class="blog-info">
                           <h4 class="blog-category text-success">lifestyle</h4>
 
-                          <h3><a href="blog-detail.html">Be Humble About What You Know</a></h3>
+                          <h3><a href="blog-detail.php">Be Humble About What You Know</a></h3>
                         </div>
                       </div>
 
@@ -111,7 +111,7 @@ https://templatemo.com/tm-538-digital-trend
                         <div class="blog-info">
                           <h4 class="blog-category text-primary">Coding</h4>
 
-                          <h3><a href="blog-detail.html">The Mistakes I Made As a Coding Beginner</a></h3>
+                          <h3><a href="blog-detail.php">The Mistakes I Made As a Coding Beginner</a></h3>
                         </div>
                       </div>
 
