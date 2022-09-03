@@ -39,16 +39,16 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="#about" class="nav-link smoothScroll">Home</a>
+                        <a href="index.php" class="nav-link smoothScroll">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#project" class="nav-link smoothScroll">Our Works</a>
+                        <a href="project.php" class="nav-link smoothScroll">Our Works</a>
                     </li>
                     <li class="nav-item">
-                        <a href="blog.html" class="nav-link">Blog</a>
+                        <a href="blog.php" class="nav-link">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a href="contact.html" class="nav-link contact">Contact</a>
+                        <a href="contact.php" class="nav-link contact">Contact</a>
                     </li>
                 </ul>
             </div>
