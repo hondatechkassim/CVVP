@@ -39,16 +39,16 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="index.html" class="nav-link">Home</a>
+                        <a href="index.php" class="nav-link">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.html#project" class="nav-link">Our Works</a>
+                        <a href="index.php" class="nav-link">Our Works</a>
                     </li>
                     <li class="nav-item">
-                        <a href="blog.html" class="nav-link">Blog</a>
+                        <a href="blog.php" class="nav-link">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a href="contact.html" class="nav-link contact">Contact</a>
+                        <a href="contact.php" class="nav-link contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -128,7 +128,7 @@
                     <div class="d-flex align-items-center mt-3">
                       <img src="images/project/project-detail/male-avatar.png" class="img-fluid" alt="male avatar">
 
-                      <p>Ahmed Abagana, Mentorship Director</p>
+                      <p>Kassim Abduba, Mentorship Director</p>
                     </div>
                 </div>
               </div>
