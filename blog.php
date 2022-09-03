@@ -96,12 +96,12 @@ https://templatemo.com/tm-538-digital-trend
                       </div>
 
                       <div class="blog-sidebar py-4 d-flex justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="300">
-                        <img src="images/abdi.png" class="img-fluid" alt="blog">
+                        <img src="images/communityMetup.png" class="img-fluid" alt="blog">
 
                         <div class="blog-info">
-                          <h4 class="blog-category text-success">lifestyle</h4>
+                          <h4 class="blog-category text-success">Community Met Up</h4>
 
-                          <h3><a href="blog-detail.php">Be Humble About What You Know</a></h3>
+                          <h3><a href="blog-detail.php">Community discussing the important of Community Centered Vision of Prosperity<br><em>10/12/2020</a></h3>
                         </div>
                       </div>
 
