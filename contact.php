@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-     <title>Community cantered vision for prosperity (CCVP)</title>
+     <title>Community cantered vision for prosperity </title>
 <!--
 
 DIGITAL TREND
@@ -45,16 +45,16 @@ https://templatemo.com/tm-538-digital-trend
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="index.html#about" class="nav-link">Studio</a>
+                        <a href="index.php" class="nav-link">Studio</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.html#project" class="nav-link">Our Works</a>
+                        <a href="index.php" class="nav-link">Our Works</a>
                     </li>
                     <li class="nav-item">
-                        <a href="blog.html" class="nav-link">Blog</a>
+                        <a href="blog.php" class="nav-link">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a href="contact.html" class="nav-link active contact">Contact</a>
+                        <a href="contact.php" class="nav-link active contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -134,7 +134,7 @@ https://templatemo.com/tm-538-digital-trend
 
             <p class="mb-1">
               <i class="fa fa-phone mr-2 footer-icon"></i> 
-              +254 0729 734 442/0728430681
+              +254 794543959/798484778
             </p>
 
             <p>
@@ -146,7 +146,7 @@ https://templatemo.com/tm-538-digital-trend
           </div>
 
           <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="300">
-            <h4 class="my-4">Our Studio</h4>
+            <h4 class="my-4">Our Work</h4>
 
             <p class="mb-1">
               <i class="fa fa-home mr-2 footer-icon"></i> 
@@ -157,7 +157,7 @@ https://templatemo.com/tm-538-digital-trend
           <div class="col-lg-4 mx-lg-auto text-center col-md-8 col-12" data-aos="fade-up" data-aos-delay="400">
             <p class="copyright-text">Copyright &copy; 2019 Your Company
             <br>
-            <a rel="nofollow noopener" href="https://templatemo.com">CCVP OUR VISION</a></p>
+            <a rel="nofollow noopener" href="https://https://community-centered-vision.herokuapp.com/blog">CCVP OUR VISION</a></p>
           </div>
 
           <div class="col-lg-4 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="500">
