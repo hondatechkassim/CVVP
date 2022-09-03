@@ -44,9 +44,9 @@
                     <li class="nav-item">
                         <a href="project-detail.php" class="nav-link smoothScroll">Our Works</a>
                     </li>
-<!--                     <li class="nav-item">
+                     <li class="nav-item">
                         <a href="blog.php" class="nav-link">Blog</a>
-                    </li> -->
+                    </li>
                     <li class="nav-item">
                         <a href="contact.php" class="nav-link contact">Contact</a>
                     </li>
@@ -259,7 +259,7 @@
 
             <p class="mb-1">
               <i class="fa fa-phone mr-2 footer-icon"></i> 
-              +254 0729 734 442/0728430681
+              +254 0729 734 442/728430681
             </p>
 
             <p>
