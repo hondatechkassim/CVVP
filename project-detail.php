@@ -26,7 +26,7 @@
      <!-- MENU BAR -->
     <nav class="navbar navbar-expand-lg position-relative">
         <div class="container">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
                <img src="images/cvvlogo.png">
             
             </a>
