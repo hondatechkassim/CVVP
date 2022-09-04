@@ -107,7 +107,7 @@
                       <li><span>To be leaders /ambassador in child and women protection and safeguarding</span></li>
                     </ul>
 
-                    <p>Sed leo nisl, posuere at molestie ac, suscipit auctor mauris. Etiam quis metus elementum, tempor risus vel, condimentum orci.</p>
+                    <p>Community-Centered-Vision for Prosperity envisioned society where child is provided with quality and standard education without leaving anyone behind and therefore this Back to school campaign contribute to our overall objective of education as one of our major themes.</p>
 
                     <h2 class="mt-5 mb-3">Community is the backbone of society</h2>
 
