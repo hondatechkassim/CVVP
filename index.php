@@ -94,7 +94,7 @@
 
                               <h2 class="mb-4" data-aos="fade-up">Our mission as  <strong>Community cantered vision for prosperity (CCVP)</strong> is based </h2>
 
-                              <p class="mb-0" data-aos="fade-up">CCVP seeks to rebuild society’s aspirations through sustainable development approach leading to equal socio-economic empowerment.For more infomation kindly visit.<a href="blog.html">blog</a> pages, <a href="project-detail.html">project</a> page, and <a href="contact.html">contact</a> page. 
+                              <p class="mb-0" data-aos="fade-up">CCVP seeks to rebuild society’s aspirations through sustainable development approach leading to equal socio-economic empowerment.For more infomation kindly visit.<a href="blog.php">blog</a> pages, <a href="project-detail.php">project</a> page, and <a href="contact.php">contact</a> page. 
                               <br><br>Our <strong> CCVP </strong>envisions an empowered society with strengthened capacity through child education, WASH, and sustainable livelihood. </p>
                          </div>
                            <!--First  slide of home page  -->
@@ -161,11 +161,11 @@
                                    <img src="images/abdi.png" class="img-fluid" alt="project image">
 
                                    <div class="project-info">
-                                        <small>Branding</small>
+                                        <small>CCVP</small>
 
                                         <h3>
-                                             <a href="project-detail.html">
-                                                  <span>Shoes factory</span>
+                                             <a href="project-detail.php">
+                                                  <span>Project</span>
                                                   <i class="fa fa-angle-right project-icon"></i>
                                              </a>
                                         </h3>
