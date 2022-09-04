@@ -32,9 +32,9 @@ https://templatemo.com/tm-538-digital-trend
      <!-- MENU BAR -->
     <nav class="navbar navbar-expand-lg position-absolute">
         <div class="container">
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="index.php">
                <img src="images/cvvlogo.png">
-              CCVP
+            
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
@@ -45,7 +45,7 @@ https://templatemo.com/tm-538-digital-trend
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="index.php" class="nav-link">Studio</a>
+                        <a href="index.php" class="nav-link">Home</a>
                     </li>
                     <li class="nav-item">
                         <a href="index.php" class="nav-link">Our Works</a>
@@ -157,7 +157,7 @@ https://templatemo.com/tm-538-digital-trend
           <div class="col-lg-4 mx-lg-auto text-center col-md-8 col-12" data-aos="fade-up" data-aos-delay="400">
             <p class="copyright-text">Copyright &copy; 2019 Your Company
             <br>
-            <a rel="nofollow noopener" href="https://https://community-centered-vision.herokuapp.com/blog">CCVP OUR VISION</a></p>
+            <a rel="nofollow noopener" href="https://community-centered-vision.herokuapp.com/blog">CCVP OUR VISION</a></p>
           </div>
 
           <div class="col-lg-4 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="500">
