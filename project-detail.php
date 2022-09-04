@@ -28,7 +28,7 @@
         <div class="container">
             <a class="navbar-brand" href="index.html">
                <img src="images/cvvlogo.png">
-              CCVP
+            
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
