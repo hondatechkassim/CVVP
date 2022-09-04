@@ -70,7 +70,7 @@
                           <div class="d-flex justify-content-center align-items-center mt-3">
 /*<!--                            <img src="images/project/project-detail/communityMetup.png" class="img-fluid" alt="male avatar"> -->*/
 
-                            <p>Admin<em>17/11/2021</p>
+                            <span><p>Admin<em>17/11/2021</p><span>
                           </div>
                       </div>
                     </div>
