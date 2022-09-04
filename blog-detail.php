@@ -81,7 +81,7 @@
 
 
      <div class="full-image text-center" data-aos="zoom-in">
-       <img src="images/blog/blog-header-image.jpg" class="img-fluid" alt="blog header">
+       <img src="images/project/project-detail/communityMetup.png" class="img-fluid" alt="blog header">
      </div>
 
 
