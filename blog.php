@@ -34,7 +34,7 @@ https://templatemo.com/tm-538-digital-trend
         <div class="container">
             <a class="navbar-brand" href="index.php">
               <img src="images/cvvlogo.png">
-              CCVP
+              
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
