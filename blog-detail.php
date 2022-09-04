@@ -27,8 +27,8 @@
     <nav class="navbar navbar-expand-lg position-relative">
         <div class="container">
             <a class="navbar-brand" href="index.php">
-              <i class="fa fa-line-chart"></i>
-              Digital Trend
+             <img src="images/cvvlogo.png">
+             
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
@@ -68,7 +68,7 @@
 
                       <div class="client-info">
                           <div class="d-flex justify-content-center align-items-center mt-3">
-                            <img src="images/project/project-detail/male-avatar.png" class="img-fluid" alt="male avatar">
+                            <img src="images/communityMetup.png" class="img-fluid" alt="male avatar">
 
                             <p>Admin</p>
                           </div>
