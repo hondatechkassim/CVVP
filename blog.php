@@ -105,35 +105,18 @@ https://templatemo.com/tm-538-digital-trend
                         </div>
                       </div>
 
-                      <div class="blog-sidebar d-flex justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="200">
-                        <img src="images/abdi.png" class="img-fluid" alt="blog">
+                       <div class="blog-sidebar py-4 d-flex justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="300">
+                        <img src="images/communityMetup.png" class="img-fluid" alt="blog">
 
                         <div class="blog-info">
-                          <h4 class="blog-category text-primary">Back to school campaign </h4>
+                          <h4 class="blog-category text-success">Community Met Up</h4>
 
-                          <h3><a href="blog-detail.php">Community-Centered-Vision for Prosperity envisioned society where child is provided with quality and standard education without leaving anyone behind and therefore this Back to school campaign contribute to our overall objective of education as one of our major themes. </a></h3>
-                        </div>
-                           <div class="blog-info">
-                       <div class="blog-sidebar d-flex justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="200">
-                        <img src="images/abdi.png" class="img-fluid" alt="blog">
-                          <h4 class="blog-category text-primary">Back to school campaign </h4>
-
-                          <h3><a href="blog-detail.php">Community-Centered-Vision for Prosperity envisioned society where child is provided with quality and standard education without leaving anyone behind and therefore this Back to school campaign contribute to our overall objective of education as one of our major themes. </a></h3>
-                        </div>
-                           <div class="blog-info">
-                          <h4 class="blog-category text-primary">Back to school campaign </h4>
-
-                          <h3><a href="blog-detail.php">Community-Centered-Vision for Prosperity envisioned society where child is provided with quality and standard education without leaving anyone behind and therefore this Back to school campaign contribute to our overall objective of education as one of our major themes. </a></h3>
-                        </div>
-                           <div class="blog-info">
-                          <h4 class="blog-category text-primary">Back to school campaign </h4>
-
-                          <h3><a href="blog-detail.php">Community-Centered-Vision for Prosperity envisioned society where child is provided with quality and standard education without leaving anyone behind and therefore this Back to school campaign contribute to our overall objective of education as one of our major themes. </a></h3>
+                          <h3><a href="blog-detail.php">Community discussing the important of Community Centered Vision of Prosperity<br><em>10/12/2020</a></h3>
                         </div>
                       </div>
 
-                    </div>
 
+                      
                     <div class="col-lg-5 ml-auto mt-5 pt-5 col-md-6 col-12">
 
                  <!--<img src="images/abdi.png" data-aos="fade-up" data-aos-delay="100" class="img-fluid" alt="newsletter">-->
