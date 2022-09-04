@@ -39,7 +39,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="index.php" class="nav-link">Studio</a>
+                        <a href="index.php" class="nav-link">Home</a>
                     </li>
                     <li class="nav-item">
                         <a href="index.php" class="nav-link">Our Works</a>
@@ -62,15 +62,15 @@
                <div class="row">
 
                     <div class="col-lg-9 mx-auto col-md-10 col-12 mt-lg-5 text-center" data-aos="fade-up">
-                      <h4 class="blog-category text-info">Creative Work</h4>
+                      <h4 class="blog-category text-info">Benefits of Community Centered Vision </h4>
                       
-                      <h1>9 useful things to learn and practice for your digital marketing</h1>
+                      <h1>9 a planned process to mobilise communities to use their own social structures and resources to address their own problems and achieve their own objectives.</h1>
 
                       <div class="client-info">
                           <div class="d-flex justify-content-center align-items-center mt-3">
                             <img src="images/project/project-detail/male-avatar.png" class="img-fluid" alt="male avatar">
 
-                            <p>Sweet Candy</p>
+                            <p>Admin</p>
                           </div>
                       </div>
                     </div>
@@ -109,11 +109,10 @@
 
                     <p>Sed leo nisl, posuere at molestie ac, suscipit auctor mauris. Etiam quis metus elementum, tempor risus vel, condimentum orci.</p>
 
-                    <h2 class="mt-5 mb-3">Curabitur tempus vel libero lobortis feugiat</h2>
+                    <h2 class="mt-5 mb-3">Community is the backbone of society</h2>
 
-                    <p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris in convallis nunc, non facilisis arcu. Nunc sapien nulla, interdum at diam non, aliquam vestibulum leo.</p>
-
-                    <blockquote>Phasellus dapibus ex sed dolor blandit, efficitur iaculis ipsum scelerisque. Cras elementum nibh id felis sagittis, sit amet pellentesque ligula porttitor. Fusce laoreet malesuada ante, consectetur consequat ante tempor et. Quisque ac risus ligula.</blockquote>
+                    <p> creating social capital and trusting relationships, giving people a sense of identity, a feeling of belonging, reducing poverty and generally improving the health and well-being of individuals.</p>
+                    <blockquote>Community social workers help communities function. Some work directly with individuals, conducting needs assessments</blockquote>
                     </div>
                </div>
 
@@ -172,16 +171,16 @@
           </div>
 
           <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="300">
-            <h4 class="my-4">Our Studio</h4>
+            <h4 class="my-4">Address</h4>
 
             <p class="mb-1">
               <i class="fa fa-home mr-2 footer-icon"></i> 
-              Av. Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ, Brazil
+              P.O. Box 1 Dabel,Golbo-Moyale
             </p>
           </div>
 
           <div class="col-lg-4 mx-lg-auto text-center col-md-8 col-12" data-aos="fade-up" data-aos-delay="400">
-            <p class="copyright-text">Copyright &copy; 2020 Your Company
+            <p class="copyright-text">Copyright &copy; 2020
             <br>
             <a rel="nofollow noopener" href="https://https://community-centered-vision.herokuapp.com">Community Centered Vision</a></p>
           </div>
@@ -189,9 +188,9 @@
           <div class="col-lg-4 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="500">
             
             <ul class="footer-link">
-              <li><a href="#">Stories</a></li>
-              <li><a href="#">Work with us</a></li>
-              <li><a href="#">Privacy</a></li>
+              <li><a href="blog.php">Stories</a></li>
+              <li><a href="project-details">Work with us</a></li>
+              <li><a href="index.php">Privacy</a></li>
             </ul>
           </div>
 
