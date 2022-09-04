@@ -114,6 +114,8 @@ https://templatemo.com/tm-538-digital-trend
                           <h3><a href="blog-detail.php">Community-Centered-Vision for Prosperity envisioned society where child is provided with quality and standard education without leaving anyone behind and therefore this Back to school campaign contribute to our overall objective of education as one of our major themes. </a></h3>
                         </div>
                            <div class="blog-info">
+                       <div class="blog-sidebar d-flex justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="200">
+                        <img src="images/abdi.png" class="img-fluid" alt="blog">
                           <h4 class="blog-category text-primary">Back to school campaign </h4>
 
                           <h3><a href="blog-detail.php">Community-Centered-Vision for Prosperity envisioned society where child is provided with quality and standard education without leaving anyone behind and therefore this Back to school campaign contribute to our overall objective of education as one of our major themes. </a></h3>
